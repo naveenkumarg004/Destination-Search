@@ -1,0 +1,23 @@
+.bg {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+}
+.head {
+  color: #252627;
+}
+.search-cont {
+  display: flex;
+}
+
+/*
+.destination-cont {
+  
+}
+*/
+.ul {
+  display: flex;
+  flex-wrap: wrap;
+}

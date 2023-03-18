@@ -1,0 +1,11 @@
+.list {
+  display: flex;
+  flex-direction: column;
+  width: 450px;
+}
+.image {
+  width: 400px;
+}
+.title {
+  color: #000000;
+}
